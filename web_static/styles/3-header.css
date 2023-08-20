@@ -5,4 +5,5 @@ header {
 	border-bottom: 1px solid #ccc;
 	background-image: url(../images/logo.png);
 	background-repeat: no-repeat;
+	padding-left: 20px;
 }
