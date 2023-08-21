@@ -18,6 +18,9 @@ button {
 	margin-right: 30px;
   	float: right;
 }
+button:hover {
+	opacity: 90%;
+}
 div .locations {
 	height: 45%;
 	width: 25%;
